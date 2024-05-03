@@ -15,7 +15,6 @@ Following the Excel analysis, I imported the cleaned dataset into Tableau to cre
 1. GDP vs. Smartphone Users: This visualization explores the relationship between a country's GDP and the number of smartphone users, providing insights into economic development and technology adoption.
 2. Life Expectancy at Birth: This visualization illustrates the life expectancy at birth across different nations, shedding light on healthcare and quality of life indicators.
 3. Smartphone Users Distribution: This visualization presents the distribution of smartphone users across countries, offering insights into global technology penetration.
-4. [Fourth Visualization]: Describe the fourth visualization here.
 
 ## Usage
 To explore the analysis and visualizations:
