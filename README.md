@@ -1,4 +1,4 @@
-# Excel-and-Tableau-project-with-Wealth-of-Nations-Dataset
+# Excel and Tableau project with Wealth of Nations Dataset
 # Wealth of Nations Dataset Analysis
 <img width="1422" alt="Screen Shot 2024-05-03 at 2 39 03 pm" src="https://github.com/vrispin/Excel-and-Tableau-product-with-Wealth-of-Nations-Dataset/assets/168829883/b7198afd-3dc9-4f61-85f9-62f678355724">
 
